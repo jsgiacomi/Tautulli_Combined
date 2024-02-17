@@ -6,7 +6,7 @@ Disclaimer:
 I am a self-taught programming enthusiast, and while my code may not be perfect, it does get the job done, which is the primary goal. If you're interested in assisting with code optimization or making it more user-friendly (perhaps executable), your help is appreciated.
 
 How to use:
-This takes a little technical know how to use, but if you are already running Plex and Tautulli you should be fine. I will try to make it simple. This is a Jupyter Labs Notebook that outputs dashboards which combine metrics across two tautuli instances. 
+This takes a little technical know how to use, but if you are already running Plex and Tautulli you should be fine. I will try to make it simple. This is a Jupyter Labs Notebook that outputs dashboards which combine metrics across two tautulli instances. 
 
 1) You need to install Python 3.x. https://www.python.org/downloads/
 2) You need to then install all the packages listed in the requirement.txt.
