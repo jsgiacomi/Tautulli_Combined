@@ -1,5 +1,6 @@
 # Tautulli_Combined
 Combine multiple Tautulli Server statistics into one dashboard for monitoring multiple Plex servers
+![example](https://github.com/jsgiacomi/Tautulli_Combined/blob/main/example.png)
 
 Disclaimer:
 I am a self-taught programming enthusiast, and while my code may not be perfect, it does get the job done, which is the primary goal. If you're interested in assisting with code optimization or making it more user-friendly (perhaps executable), your help is appreciated.
