@@ -1,5 +1,15 @@
 # Tautulli_Combined
 Combine multiple Tautulli Server statistics into one dashboard for monitoring multiple Plex servers
+The below dashboards are available:
+1) Total Views by Media Type By Server By Day
+2) Total Views by Media Type By Server by Month
+3) Most Watched Movies (top 20 - customizable) over the last 60 days (customizable)
+4) Most Watched TV Shows (top 20 - customizable) over the last 60 days (customizable)
+5) Most active users by play count over the last 60 days ordered by number of plays
+6) Server pie chart breakdown by total play count
+7) Media type plays pie chart
+8) Table with most recent plays
+9) Current activity for all servers
 ![example](https://github.com/jsgiacomi/Tautulli_Combined/blob/main/example.png)
 
 Disclaimer:
